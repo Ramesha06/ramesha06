@@ -33,8 +33,8 @@
 
 ## 📫 Contact
 - Email: ramesharashmie@gmail.com
-- LinkedIn: linkedin.com/in/ramesha-weerasinghe-407777292 
+- LinkedIn: http://linkedin.com/in/ramesha-weerasinghe-407777292
 
 ---
 
-✨ Thanks for stopping by — I love cute UI, tea breaks, and debugging at midnight ☕💤
+✨ Thanks for stopping by — I love cute UI, coffee breaks, and debugging at midnight ☕💤
