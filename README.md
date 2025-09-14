@@ -11,6 +11,8 @@
 - Practice clean code and helpful commit messages.
 - Learn backend basics and OOP (C# Windows Forms, PHP APIs).
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76F6F&width=435&lines=Welcome+to+my+code+corner+✨;👩‍💻+SE+student+%C2%B7+Building+with+C%23,+PHP,+JavaScript+☕)](https://git.io/typing-svg)
+
 ---
 
 ## 🛠️ Skills
@@ -19,6 +21,10 @@
 - 🗄️ **Databases:** SQL (basics)  
 - 🧰 **Tools:** Visual Studio, VS Code, Git
 
+<!-- Tech stack badges -->
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ---
 
 ## 💡 Featured projects
@@ -30,6 +36,10 @@
   `🔗` _Link: https://github.com/USERNAME/tiny-php-api_
 
 ---
+
+## 📊 GitHub Stats
+![Rashmie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
 
 ## 📫 Contact
 - Email: ramesharashmie@gmail.com
