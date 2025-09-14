@@ -1,16 +1,40 @@
-## Hi there 👋
+# Welcome to my code corner ✨
 
-<!--
-**Ramesha06/ramesha06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**👩‍💻 SE student · Building with C#, PHP, JavaScript**
+**☕ Coffee in, code out — a reliable conversion**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌟 What I do
+- Build small desktop & web apps (class projects → tiny portfolios).
+- Practice clean code and helpful commit messages.
+- Learn backend basics and OOP (C# Windows Forms, PHP APIs).
+
+---
+
+## 🛠️ Skills
+- 💻 **Languages:** C#, PHP, JavaScript  
+- 🌐 **Web:** HTML, CSS, Bootstrap  
+- 🗄️ **Databases:** SQL (basics)  
+- 🧰 **Tools:** Visual Studio, VS Code, Git
+
+---
+
+## 💡 Featured projects
+- **SaveNServe** — Restaurant management app (C# Windows Forms).  
+  `🔗` _Link: https://github.com/USERNAME/SaveNServe_
+- **Personal Blog** — Static blog to show my writing and photos.  
+  `🔗` _Link: https://github.com/USERNAME/personal-blog_
+- **Tiny PHP API** — Small API for practice (login/data).  
+  `🔗` _Link: https://github.com/USERNAME/tiny-php-api_
+
+---
+
+## 📫 Contact
+- Email: ramesharashmie@gmail.com
+- LinkedIn: linkedin.com/in/ramesha-weerasinghe-407777292 
+
+---
+
+✨ Thanks for stopping by — I love cute UI, tea breaks, and debugging at midnight ☕💤
