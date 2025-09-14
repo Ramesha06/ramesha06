@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Welcome+to+my+code+corner+✨)](https://git.io/typing-svg)
 
-**👩‍💻 SE student · Building with C#, PHP, JavaScript**
+**SE student · Building with C#, PHP, JavaScript**
 **☕ Coffee in, code out — a reliable conversion**
 
 ---
@@ -42,4 +42,4 @@
 
 ---
 
-✨ Thanks for stopping by — I love cute UI, coffee breaks, and debugging at midnight ☕💤
+Thanks for stopping by, I love cute UI, coffee breaks, and debugging at midnight ☕
