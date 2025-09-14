@@ -1,4 +1,4 @@
-# Welcome to my code corner ✨
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Welcome+to+my+code+corner+✨)](https://git.io/typing-svg)
 
 **👩‍💻 SE student · Building with C#, PHP, JavaScript**
 **☕ Coffee in, code out — a reliable conversion**
@@ -11,7 +11,6 @@
 - Practice clean code and helpful commit messages.
 - Learn backend basics and OOP (C# Windows Forms, PHP APIs).
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Welcome+to+my+code+corner+✨)](https://git.io/typing-svg)
 
 ---
 
