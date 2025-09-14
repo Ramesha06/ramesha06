@@ -11,7 +11,7 @@
 - Practice clean code and helpful commit messages.
 - Learn backend basics and OOP (C# Windows Forms, PHP APIs).
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76F6F&width=435&lines=Welcome+to+my+code+corner+✨;👩‍💻+SE+student+%C2%B7+Building+with+C%23,+PHP,+JavaScript+☕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Welcome+to+my+code+corner+✨)](https://git.io/typing-svg)
 
 ---
 
@@ -36,11 +36,6 @@
   `🔗` _Link: https://github.com/USERNAME/tiny-php-api_
 
 ---
-
-## 📊 GitHub Stats
-![Rashmie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=rashmieramesha&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmieramesha&layout=compact&theme=radical)
-
 
 ## 📫 Contact
 - Email: ramesharashmie@gmail.com
